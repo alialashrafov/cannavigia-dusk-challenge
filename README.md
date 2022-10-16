@@ -1,6 +1,15 @@
 # Vigia AG Dusk QA 2FA Login Test Challenge
 
-Welcome, dear developer! We have created a small challenge for you. Please fork this repository and add a Laravel Dusk test that tests the login for a user with 2 factor authentication enabled. The user must be created using a factory.
+Welcome, dear developer! We have created a small challenge for you. Please fork this repository and add a Laravel Dusk test that tests the login for a user with two factor authentication enabled. 
+
+## Required Steps
+1. Open the login page
+2. Enter login credentials]
+3. Submit
+4. Enter two factor authentication code
+5. Submit
+6. See "Dashboard"
+
 
 ## Installation
 

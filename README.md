@@ -1,6 +1,6 @@
 # Vigia AG Dusk QA 2FA Login Test Challenge
 
-Welcome, dear developer candidate! 
+Hey there, dear developer candidate! 
 
 We have created a small but tricky challenge for you. Please fork this repository and add a Laravel Dusk test that tests the login for a user with two factor authentication enabled. 
 

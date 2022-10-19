@@ -5,12 +5,13 @@ Hey there, dear developer candidate!
 We have created a small but tricky challenge for you. Please fork this repository and add a Laravel Dusk test that tests the login for a user with two factor authentication enabled. 
 
 ## Required Steps the Test has to perform
-1. Open the login page
-2. Enter login credentials
-3. Submit
-4. Enter two factor authentication code
-5. Submit
-6. See "Dashboard"
+1. Create a user with 2FA enabled
+2. Open the login page
+3. Enter login credentials
+4. Submit
+5. Enter two factor authentication code
+6. Submit
+7. See "Dashboard"
 
 
 ## Installation
